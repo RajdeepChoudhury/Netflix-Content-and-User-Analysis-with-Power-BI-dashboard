@@ -1,14 +1,14 @@
 # Netflix-Data-Analysis-Power-BI
 Power BI dashboard analyzing Netflix Movies and TV Shows based on country, genre, and time trends.
 
-# 📊 Dashboard Preview
+# Dashboard Preview
 
 ![image alt](Dashboard.png)
 ---
 
-# 🎬 Netflix Movies & TV Show Data Analysis – Power BI Project
+# Netflix Movies & TV Show Data Analysis – Power BI Project
 
-## 📌 Project Overview
+## Project Overview
 
 This Power BI dashboard explores and analyzes Netflix’s global content library. The project is based on the publicly available **Netflix titles dataset**, and covers insights on:
 
@@ -21,7 +21,7 @@ This project helps understand content trends for viewers, analysts, and streamin
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 | Tool        | Purpose                                 |
 |-------------|------------------------------------------|
@@ -30,7 +30,7 @@ This project helps understand content trends for viewers, analysts, and streamin
 
 ---
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 
 - Total Titles: **8809**
 - Type Split: **TV Shows vs Movies**
